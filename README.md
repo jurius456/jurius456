@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/glepnir/glepnir/master/1.gif" alt="gif">
+<img width="60%" src="https://raw.githubusercontent.com/glepnir/glepnir/master/1.gif" alt="gif">
 </div>
 
 <p align="center">
