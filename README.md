@@ -6,8 +6,7 @@
 •
 <b><a href="https://space.bilibili.com/321783076/"> BiliBili</a></b>
 •
-<b><a href="mailto:glepnir@neovim.pro"> Email me</a></b>
-•
-<b><a href="https://yupdo.org">Blog</a></b>
+<b><a href="romanworkoutvlg@gmail.com"> Email me</a></b>
+
 •
 </p>
