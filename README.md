@@ -4,9 +4,8 @@
 
 <p align="center">
 •
-<b><a href="https://space.bilibili.com/321783076/"> BiliBili</a></b>
+<b><a href="https://www.instagram.com/jur1us/?__d=1%2F%2F"> BiliBili</a></b>
 •
 <b><a href="romanworkoutvlg@gmail.com"> Email me</a></b>
-
 •
 </p>
