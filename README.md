@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<img height="150" src="https://raw.githubusercontent.com/glepnir/glepnir/master/1.gif" alt="gif">
+</div>
 
-<!--
-**jurius456/jurius456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+•
+<b><a href="https://space.bilibili.com/321783076/"> BiliBili</a></b>
+•
+<b><a href="mailto:glepnir@neovim.pro"> Email me</a></b>
+•
+<b><a href="https://yupdo.org">Blog</a></b>
+•
+</p>
